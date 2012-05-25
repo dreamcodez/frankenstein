@@ -1,0 +1,3 @@
+post    /posts/:name        GET SURF PUT DELETE
+posts   /posts              POST
+foobar  /foo/bar/:car/:dar  GET
