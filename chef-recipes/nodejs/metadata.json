@@ -28,5 +28,5 @@
     "nodejs": "Installs Node.JS from source",
     "nodejs::npm": "Installs npm - a package manager for node"
   },
-  "version": "0.6.11"
+  "version": "0.8.3"
 }
