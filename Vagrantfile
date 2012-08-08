@@ -98,7 +98,7 @@ Vagrant::Config.run do |config|
   #   chef.validation_client_name = "ORGNAME-validator"
   config.vm.customize ["modifyvm", :id,
                        "--memory", "2048",
-                       "--cpus", "4",
+                       "--cpus", "2",
                       ]
 end
 
