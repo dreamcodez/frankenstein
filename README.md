@@ -47,3 +47,8 @@ $(defineHandler "foobar") $ \params -> do
 
 # need to create parser for dsl of routes
 
+
+
+
+vagrant box add precise64 http://files.vagrantup.com/precise64.box
+
